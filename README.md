@@ -58,6 +58,7 @@ claude mcp add --transport http zolva https://zolvaagent.app/mcp
 |---|---|
 | Contract | [`0x8e04549484d0612be8373a0263b11928a5f7681f`](https://robinhoodchain.blockscout.com/address/0x8e04549484d0612be8373a0263b11928a5f7681f) |
 | Chain | Robinhood Chain (chain id 4663) |
+| Charts | [GeckoTerminal](https://www.geckoterminal.com/robinhood/pools/0x417e1f5361a5296f93a133142651e07d203f7a4ddecaa2de4460f1fb182e6d74) · [DexScreener](https://dexscreener.com/robinhood/0x417e1f5361a5296f93a133142651e07d203f7a4ddecaa2de4460f1fb182e6d74) |
 | Utility | Holding ZOLVA unlocks free AI reviews and higher limits, with nothing to stake or lock: [zolvaagent.app/docs/token](https://zolvaagent.app/docs/token) |
 
 ---
